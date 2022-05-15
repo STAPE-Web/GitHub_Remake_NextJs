@@ -1,4 +1,4 @@
-## YoTube Remake
+## GitHub Remake
 Hello friends, today I continue to develop in the direction of NextJs and React. Therefore, I create GitHub Remake. Give me a star for my efforts.
 
 ## Tools
